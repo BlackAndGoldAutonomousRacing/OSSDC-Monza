@@ -254,6 +254,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 23190465944215804, guid: 86c7d874fe6f24aa981a865a6f8f6217,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4ed364eca9cde9b98a08adf3ecf5d9b, type: 2}
+    - target: {fileID: 23190465944215804, guid: 86c7d874fe6f24aa981a865a6f8f6217,
+        type: 3}
+      propertyPath: m_Materials.Array.data[3]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4ed364eca9cde9b98a08adf3ecf5d9b, type: 2}
+    - target: {fileID: 23971285121590186, guid: 86c7d874fe6f24aa981a865a6f8f6217,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4ed364eca9cde9b98a08adf3ecf5d9b, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86c7d874fe6f24aa981a865a6f8f6217, type: 3}
 --- !u!1 &988141811
@@ -333,9 +348,8 @@ MonoBehaviour:
   OriginNorthing: 5051444.5
   UTMZoneId: 32
   AltitudeOffset: 0
-  TimeZoneSerialized: W. Europe Standard Time;60;(UTC+01:00) Amsterdam, Berlin, Bern,
-    Rome, Stockholm, Vienna;W. Europe Standard Time;W. Europe Daylight Time;[01:01:0001;12:31:9999;60;[0;02:00:00;3;5;0;];[0;03:00:00;10;5;0;];];
-  TimeZoneString: (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna
+  TimeZoneSerialized: Africa/Algiers;60;Africa/Algiers;CET;CET;;
+  TimeZoneString: Africa/Algiers
   IgnoreNPCVisible: 0
   IgnoreNPCSpawnable: 0
   IgnoreNPCBounds: 0
